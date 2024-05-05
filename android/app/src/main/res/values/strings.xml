@@ -1,0 +1,10 @@
+<resources>
+    <string name="tfe_od_app_name" translation_description="Object Detection demo app [CHAR_LIMIT=40]">Grape</string>
+    <string name="tfe_od_camera_error" translation_description="Error regarding camera support[CHAR_LIMIT=40]">This device doesn\'t support Camera2 API.</string>
+    <string name="start_request_real_stream" />
+    <string name="stop_request_real_stream" />
+    <string name="stop_record" />
+    <string name="start_record" />
+    <string name="capture" />
+    <string name="external">External</string>
+</resources>

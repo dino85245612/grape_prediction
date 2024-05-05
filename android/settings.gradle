@@ -1,0 +1,12 @@
+include ':app'
+
+include ':openCVLibrary3416'
+
+//dependencyResolutionManagement {
+//    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+//    repositories {
+////        google()
+//        mavenCentral()
+//        maven { url 'https://raw.github.com/saki4510t/libcommon/master/repository/' }
+//    }
+//}
